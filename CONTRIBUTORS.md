@@ -6,8 +6,8 @@
 | <img src="https://avatars.githubusercontent.com/u/98610826?v=4" width="32"/> | [alkum](https://github.com/alkum) |
 | <img src="https://avatars.githubusercontent.com/u/36207203?v=4" width="32"/> | [ghubstan](https://github.com/ghubstan) |
 | <img src="https://avatars.githubusercontent.com/u/99251513?v=4" width="32"/> | [salokiam](https://github.com/salokiam) |
-| <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="32"/> | [dependabot[bot]](https://github.com/dependabot[bot]) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="32"/> | [dependabot[bot]](https://github.com/dependabot[bot]) |
 | <img src="https://avatars.githubusercontent.com/u/116298498?v=4" width="32"/> | [HenrikJannsen](https://github.com/HenrikJannsen) |
 | <img src="https://avatars.githubusercontent.com/u/170962?v=4" width="32"/> | [ripcurlx](https://github.com/ripcurlx) |
 | <img src="https://avatars.githubusercontent.com/u/105240178?v=4" width="32"/> | [c4talys7](https://github.com/c4talys7) |
@@ -17,6 +17,7 @@
 | <img src="https://avatars.githubusercontent.com/u/101885979?v=4" width="32"/> | [NodinYakari](https://github.com/NodinYakari) |
 | <img src="https://avatars.githubusercontent.com/u/100865745?v=4" width="32"/> | [gingerbisquit](https://github.com/gingerbisquit) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
